@@ -19,4 +19,6 @@ for (let i = 0; i < sortedLastNames.length; i++){
     console.log(sortedLastNames[i].toUpperCase())         
 }
 
+ const mixedLastNames = ["Ivanov","IVANOVIC","Mason","MASON","Marcora","MARCORA","Rico","RICO","Unachukwu","UNACHUKWU"]
+ console.log(mixedLastNames)
 
